@@ -1,4 +1,4 @@
-//Exercicio 8 for each 
+//Exercicio 8 for each
 package logicaexercicios;
 
 public class hForEachEx {
@@ -18,9 +18,8 @@ public class hForEachEx {
             }
 
             med = (n + n2 + n3)/3;
-
-            System.out.println("É isso -> " + med);
-
+            System.out.println(med
+            );
         }
     }
 }
